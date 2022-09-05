@@ -31,7 +31,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oe4i45gIj_roXsB5AzCJXl46xApY",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Iu41W4FDgfUo-j_2ZzVwGhZf06Z6S98u3t8CBE3E90U",
+      useTemplateId: "8Rqfx-DqphBDEhtFgXfiVI4Zv4NsAkJJ1Z_ndIADwCs",
       // 所在省份
       province: "浙江",
       // 所在城市
@@ -70,7 +70,7 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "zjV1glIuCXo4Csr23aXWEio1iP74sZJ7IQEES95lDsg6c4yOU",
+  CALLBACK_TEMPLATE_ID: "tKMcu9hixdTKlal0nMo1230YJwpHkw63TRoGsI4v5Ck",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -102,7 +102,7 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "1998", "date": "10-09"},
+    {"type": "生日", "name": "YoYo", "year": "1998", "date": "10-09"},
     {"type": "节日", "name": "恋爱纪念日", "year": "2022", "date": "02-05"},
   ],
 
@@ -139,7 +139,7 @@ export const config = {
     * */
   SLOT_LIST: [
     // 这样配置的话，就会每次发送这句话
-    {"keyword": "encourage_oneself", contents: "你主要的问题在于读书太少而想得太多"},
+    {"keyword": "encourage_oneself", contents: "今天吃的多吗？"},
     // 这样配置的话，就会每次随机选一句话发送
     {"keyword": "lover_prattle", contents: [
       "因为太喜欢你，所以看谁都像是情敌。",
