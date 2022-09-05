@@ -33,9 +33,9 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "Iu41W4FDgfUo-j_2ZzVwGhZf06Z6S98u3t8CBE3E90U",
       // 所在省份
-      province: "乔治亚",
+      province: "浙江",
       // 所在城市
-      city: "萨凡纳",
+      city: "台州",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://weather.com/zh-SG/weather/hourbyhour/l/90536854e3c26671deedcd5585946058e7252a8dce660680afedd878988d173b11c959f912cee4d9f945ad251e64aeae"
     }, 
